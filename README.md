@@ -1,9 +1,9 @@
 # skillwood
 
 
-skillwood game port for consoles such as R36s and others, to use with portmaster
+Skillwood game port for consoles like R36s and others, to use with portmaster
 
-the game is without the package, you can download the game for free from the link below.
+you can download it for free or support the game developer through the links below.
 
 https://store.steampowered.com/app/2776630/Skillwood/
 
@@ -11,73 +11,55 @@ or
 
 https://sshulin.itch.io/skillwood
 
-take all the data that is in the game folder with the name "Skillwood" and paste it into the "gamedata" folder of the file that I downloaded here, then pass it to your console in the ports folder.
+you can download it from the releases tab here on github.
 
+complete port, just download the folder and the .sh file of the game and move the files to the PORT folder of the console
 
-Skillwood is a relaxing woodcutter simulator inspired by survival simulators and incremental games. Chop wood, mine stone, trade with NPCs, upgrade forests, unlock new trees or new areas and prestige to do even better next run.
+Skillwood is a relaxing lumberjack simulator inspired by survival simulators and incremental games. Cut wood, mine stones, trade with NPCs, improve forests, unlock new trees or new areas and gain prestige to do even better in the next game.
 
-Controls: 
+Controls:
 
-DPAD / WASD
-A - Press and hold - SPACEBAR - action (chop, mine or construct)
-B - Enter
-Select - Menu
+DPAD / WASD A - Press and hold - SPACEBAR - action (cut, mine or build) B - Enter Select - Menu
 
-CFW Tests:
-[x] AmberELEC
-[x] ArkOS
-[ ] MuOS
-[ ] ROCKNIX
+CFW Tests: [x] AmberELEC [x] ArkOS [ ] MuOS [ ] ROCKNIX
 
+Resolutions:
 
-Resolutions: 
+[x] 480x320 [ ] 640x480 [ ] 720x720
 
-[x] 480x320 
-[ ] 640x480
-[ ] 720x720
-
-
-This is my first port, Try using the updated version of portmaster I updated it via the wifi dongle, I apologize if I did something wrong and I apologize for my English.
+This is my first port. Try using the updated version of Portmaster. I updated it via the Wi-Fi dongle.
 
 
 
 Português.
 
-skillwood game port para console como R36s e outros, para utilizar com o portmaster
 
 
-o game esta sem o pacote, você pode baixar o game gratuitamente pelo link abaixo.
+Skillwood  game port para consoles como R36s e outros, para utilizar com o portmaster
 
+pode baixar gratuito ou apoiar o desenvolvedor do jogo pelos links abaixo.
 
 https://store.steampowered.com/app/2776630/Skillwood/
 
-ou 
+ou
 
 https://sshulin.itch.io/skillwood
 
 
-pega todos os dados que estiver na pasta do jogo com o nome "Skillwood" e cole na pasta "gamedata" do arquivo que baixo aqui, depois passa para o seu console na pasta ports.
+pode baixar na aba releases aqui do github.
 
+port completa, basta baixar a pasta e o arquivo .sh do jogo e mover os arquivos para a pasta PORT do console
 
 Skillwood é um relaxante simulador de lenhador inspirado em simuladores de sobrevivência e jogos incrementais. Corte madeira, minere pedras, negocie com NPCs, aprimore florestas, desbloqueie novas árvores ou novas áreas e ganhe prestígio para se sair ainda melhor na próxima partida.
 
 Controles:
 
-DPAD / WASD
-A - Pressione e segure - BARRA DE ESPAÇO - ação (cortar, minerar ou construir)
-B - Enter
-Selecionar - Menu
+DPAD / WASD A - Pressione e segure - BARRA DE ESPAÇO - ação (cortar, minerar ou construir) B - Enter Selecionar - Menu
 
-Testes CFW:
-[x] AmberELEC
-[x] ArkOS
-[ ] MuOS
-[ ] ROCKNIX
+Testes CFW: [x] AmberELEC [x] ArkOS [ ] MuOS [ ] ROCKNIX
 
 Resoluções:
 
-[x] 480x320
-[ ] 640x480
-[ ] 720x720
+[x] 480x320 [ ] 640x480 [ ] 720x720
 
 Esta é minha primeira portabilidade. Tente usar a versão atualizada do Portmaster. Atualizei-a através do dongle Wi-Fi.
